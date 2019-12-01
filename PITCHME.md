@@ -47,7 +47,7 @@ __なぜ__は理解したけど、__何を__すればいいの？
 ### アポ前準備<br>７か条　
 @snapend
 
-@snap[east text-center]
+@snap1[east text-center]
   @ul[list-spaced-bullets list-fade-fragments]
   1. 基本のWEBサーチ 
   1. より詳細なWEBサーチ
@@ -57,7 +57,7 @@ __なぜ__は理解したけど、__何を__すればいいの？
   1. 想定課題の設定
   1. Solution提案を用意
   @ulend
-＠snapend
+＠snap1end
 
 ---
 ### ひとつひとつ詳細に説明しよう！
