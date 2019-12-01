@@ -1,11 +1,8 @@
-@snap[west]
-# Client<br>Reserch<br>Training
-@sanpend
 
-@snap[east]
+## Client Reserch Training
 #### 2019 Dec 
 Kaori Ohashi
-@snap
+
 ---
 ### 研修の全体像
 - 今日:30mins
