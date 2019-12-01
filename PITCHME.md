@@ -100,6 +100,7 @@ _mini goal_
 
 _mini goal_
 - なぜRGFの話を聞いているのか、相手のニーズに対して仮説を立てる
+.image image/https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png 300 200
 ---
 ### STEP7
 - STEP6の内容を元に、当日の提案を用意する
