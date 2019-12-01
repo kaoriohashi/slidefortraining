@@ -1,6 +1,6 @@
 #テーマの設定
-theme : ["#f5f5f5" ]
-text : ["#000000"]
+theme : [ "#f5f5f5" ]
+text : [ "#000000" ]
 font : default
 
 
