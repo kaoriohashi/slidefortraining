@@ -118,7 +118,7 @@ __なぜ__ は理解したけど、<br> __何を__ すればいいの？
 @snapend
 
 ### こんな感じ↓
-<img src="https://docs.google.com/document/d/15zORck_lykMQt94Ipq64L4wZbFZ4L_GX9scBNvyKuXw/edit" width=80%>
+<img src="screenshot1" width=80%>
 
 ---
 @snap[west span-80]
