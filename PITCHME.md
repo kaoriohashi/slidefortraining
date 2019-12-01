@@ -57,6 +57,7 @@ __なぜ__は理解したけど、<br>__何を__すればいいの？
 @snapend
 
 @snap[east text-center]
+@ul[list-square-bullets list-spaced-bullets font-righteous]
 1. HP, Wantedly, PR TIMESなどでのオンラインリサーチ 
 1. extensive  search ( IR情報,社員のSNS…　） 
 1. HR や関係者にヒアリング 
@@ -64,7 +65,7 @@ __なぜ__は理解したけど、<br>__何を__すればいいの？
 1. 1-4をまとめ、自分用の事前準備資料を作成する
 1. 想定課題の設定
 1. Solution提案を用意
-@snapend
+@ulend
 
 ---
 ### ひとつひとつ詳細に説明しよう！
@@ -148,11 +149,11 @@ __なぜ__は理解したけど、<br>__何を__すればいいの？
 
 ---
 @snap[west]
-### 実際にやってみよう！ 😎
+### 実際にやってみよう😎
 @snapend
 
 @snap[east]
-<img src="https://1.bp.blogspot.com/-PgPpfoGDxF0/WcB5sfrVQSI/AAAAAAABG1o/xGjjAfsxv_UddA_63hydv1M46uL0b4KHACLcBGAs/s800/kaigi_man_woman.png" width="320px">
+<img src="https://1.bp.blogspot.com/-PgPpfoGDxF0/WcB5sfrVQSI/AAAAAAABG1o/xGjjAfsxv_UddA_63hydv1M46uL0b4KHACLcBGAs/s800/kaigi_man_woman.png" width="340px">
 @snapend
 
 ---
