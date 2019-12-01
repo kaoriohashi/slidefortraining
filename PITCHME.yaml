@@ -1,9 +1,8 @@
 #テーマの設定
 theme : white
 text : black
-font : arial
+font : Meriyo
 
-theme-headline : ["Client Reserch Training", "orange"]
 
 #ロゴアイコンの設定
 logo : rgflogo.png
