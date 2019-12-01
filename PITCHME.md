@@ -60,8 +60,8 @@ __なぜ__は理解したけど、__何を__すればいいの？
 ### STEP1
 ### HPやまとめサイト、Wantedlyなどを中心に情報収集をする。
 会社の概要と募集要項の把握
->WantedlyとかPRTIMESが便利
 @snapend
+>WantedlyとかPRTIMESが便利
 
 ---
 @snap[west]
