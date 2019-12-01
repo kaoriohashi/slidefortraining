@@ -43,14 +43,21 @@ __なぜ__は理解したけど、__何を__すればいいの？
 - 徹底した準備です🙃
 
 ---
-### アポ前準備の７か条　
-1. HP, Wantedly, PR TIMESなどでのオンラインリサーチ 
-1. extensive  search ( IR情報,社員のSNS…　） 
-1. HR や関係者にヒアリング 
-1. 同業他社の同じポジションで仕事をしている人にヒアリング
-1. 1-4をまとめ、自分用の事前準備資料を作成する
+@snap[west text-center]
+### アポ前準備<br>７か条　
+@snapend
+
+@snap[east span-50 text-center]
+@ul[list-spaced-bullets list-fade-fragments]
+1. 基本のWEBサーチ 
+1. より詳細なWEBサーチ
+1. HRや関係者にヒアリング 
+1. 同業他社へのヒアリング
+1. 1-4の事前準備資料作成
 1. 想定課題の設定
 1. Solution提案を用意
+@ulend
+＠snapend
 
 ---
 ### ひとつひとつ詳細に説明しよう！
