@@ -1,0 +1,10 @@
+#テーマの設定
+theme : white
+text : black
+
+#ロゴアイコンの設定
+logo : .png
+
+
+#スライドのページ数表示の設定
+slide-number: true
