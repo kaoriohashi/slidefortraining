@@ -4,7 +4,7 @@ text : black
 font : arial
 
 #ロゴアイコンの設定
-logo : /image/rgflogo.jpg
+logo : rgflogo.png
 
 
 #スライドのページ数表示の設定
