@@ -1,7 +1,7 @@
 @snap[west text-center]
 # Client<br>Reserch<br>Training
 
-[east text-center]
+@snap[east text-center]
 #### 2019 Dec 
 Kaori Ohashi
 
