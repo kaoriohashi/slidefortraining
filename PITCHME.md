@@ -1,10 +1,10 @@
 @snap[west text-center]
 # Client<br>Reserch<br>Training
-theme-headline : ["orange"]
 @snap
 
+@ snap[east text-center]
 #### 2019 Dec 
-#### Kaori Ohashi
+Kaori Ohashi
 
 ---
 ### 研修の全体像
