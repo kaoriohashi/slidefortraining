@@ -5,6 +5,7 @@
 @ snap[east text-center]
 #### 2019 Dec 
 Kaori Ohashi
+@snapend
 
 ---
 ### 研修の全体像
