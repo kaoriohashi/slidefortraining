@@ -96,13 +96,17 @@ _mini goal_
 こんな感じ。
 
 ---
+@snap[west]
 ### STEP6
 - 想定課題の設定
-<img src="https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)" width="50px">
-
 
 _mini goal_
 - なぜRGFの話を聞いているのか、相手のニーズに対して仮説を立てる
+@snapend
+
+@snap[east]
+<img src="https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)" width="200px">
+@snapend
 ---
 ### STEP7
 - STEP6の内容を元に、当日の提案を用意する
