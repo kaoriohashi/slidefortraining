@@ -56,7 +56,7 @@ __なぜ__は理解したけど、<br>__何を__すればいいの？
 ### アポ前準備<br>７STEPs
 @snapend
 
---
+　　
 
 @snap[east text-center]
 @ul[list-square-bullets list-spaced-bullets]
