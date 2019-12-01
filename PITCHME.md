@@ -149,7 +149,7 @@ __なぜ__ は理解したけど、<br> __何を__ すればいいの？
 
 ---
 ### Case study：SHOWROOM社<br>初回アポ(当日の持ち時間15分）
-参加者：Midoriさん, Shumpei, Kaori
+
 
 
 
