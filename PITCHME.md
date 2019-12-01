@@ -44,8 +44,6 @@ __なぜ__は理解したけど、__何を__すればいいの？
 
 ---
 ### アポ前準備の７か条　
-
-@snap[midpoint span-50 text-07]
 1. HP, Wantedly, PR TIMESなどでのオンラインリサーチ 
 1. extensive  search ( IR情報,社員のSNS…　） 
 1. HR や関係者にヒアリング 
@@ -53,7 +51,6 @@ __なぜ__は理解したけど、__何を__すればいいの？
 1. 1-4をまとめ、自分用の事前準備資料を作成する
 1. 想定課題の設定
 1. Solution提案を用意
-@snapend
 
 ---
 ### ひとつひとつ詳細に説明しよう！
@@ -104,7 +101,7 @@ _mini goal_
 
 _mini goal_
 - なぜRGFの話を聞いているのか、相手のニーズに対して仮説を立てる
-!(https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)
+![積み木のひと](https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)
 ---
 ### STEP7
 - STEP6の内容を元に、当日の提案を用意する
