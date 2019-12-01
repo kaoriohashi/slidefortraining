@@ -4,8 +4,10 @@ text : black
 font : arial
 
 #ロゴアイコンの設定
-logo : .png
+logo : /image/rgflogo.jpg
 
 
 #スライドのページ数表示の設定
 slide-number: true
+
+loop : true
