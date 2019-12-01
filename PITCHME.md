@@ -70,9 +70,9 @@ __なぜ__は理解したけど、__何を__すればいいの？
 @snapend
 
 ---
+@snap[midpoint span-70]
 ### ここまではできている人も多いが、ここからが本番😇
-
-image
+@snapend
 
 ---
 @snap[west]
@@ -106,10 +106,6 @@ image
 ### STEP6
 ### 想定課題の設定
 なぜRGFの話を聞いているのか、相手のニーズに対して仮説を立てる
-@snapend
-
-@snap[east]
-<img src="https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)" width="320px">
 @snapend
 
 ---
