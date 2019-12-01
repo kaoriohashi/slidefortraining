@@ -113,11 +113,10 @@ __なぜ__ は理解したけど、<br> __何を__ すればいいの？
 @snapend
 
 ---
-@snap[north-west]
+@snap[north]
 ### STEP5   こんな感じ↓
-@snapend
-
 <img src="showroom1.png" width=80%>
+@snapend
 
 ---
 @snap[west span-80]
