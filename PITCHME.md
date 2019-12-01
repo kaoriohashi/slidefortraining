@@ -102,14 +102,14 @@ image
 ### こんな感じ↓
 
 ---
-@snap[west span-30]
+@snap[west span-80]
 ### STEP6
 ### 想定課題の設定
 なぜRGFの話を聞いているのか、相手のニーズに対して仮説を立てる
 @snapend
 
-@snap[south-east]
-<img src="https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)" width="200px">
+@snap[east]
+<img src="https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)" width="320px">
 @snapend
 
 ---
