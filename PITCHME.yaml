@@ -1,7 +1,7 @@
 #テーマの設定
-theme : [ "#f5f5f5" ]
-text : [ "#000000" ]
-font : default
+theme : smoke
+text : night
+font : arial
 
 
 #ロゴアイコンの設定
