@@ -114,10 +114,9 @@ __なぜ__ は理解したけど、<br> __何を__ すればいいの？
 
 ---
 @snap[north-west]
-### STEP5
+### STEP5   こんな感じ↓
 @snapend
 
-### こんな感じ
 <img src="showroom1.png" width=80%>
 
 ---
