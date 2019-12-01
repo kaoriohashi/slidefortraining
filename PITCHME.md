@@ -118,9 +118,8 @@ __なぜ__ は理解したけど、<br> __何を__ すればいいの？
 こんな感じ→
 @snapend
 
-@snapend[east]
-<img src="showroom2.png" width=200px>
-
+@snapend[north-east]
+<img src="showroom2.png" width=320px>
 
 ---
 @snap[west span-80]
