@@ -1,12 +1,8 @@
-@snap[west text-center font-arial]
-## Client<br>Reserch<br>Training
-@snapend
+
+## Client Reserch Training
   
-@snap[east text center]
 #### 2019 Dec 
 Kaori Ohashi
-@snapend
-
 
 ---
 ## 研修の全体像
@@ -127,7 +123,7 @@ __なぜ__は理解したけど、<br>__何を__すればいいの？
 
   
 @snap[east]
-<img src="showroom2.png" width="350px")>
+<img src="showroom2.png" width="450px")>
 @snapend
 
 
