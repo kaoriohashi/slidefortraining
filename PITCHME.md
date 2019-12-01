@@ -1,4 +1,8 @@
-## Client Reserch Training
+@snap[west text-center]
+# Client<br>Reserch<br>Training
+theme-headline : ["orange"]
+@snap
+
 #### 2019 Dec 
 #### Kaori Ohashi
 
