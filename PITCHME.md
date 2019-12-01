@@ -56,13 +56,15 @@ __なぜ__は理解したけど、<br>__何を__すればいいの？
 ### アポ前準備<br>７STEPs
 @snapend
 
+--
+
 @snap[east text-center]
-@ul[list-square-bullets list-spaced-bullets font-righteous]
-1. HP, Wantedly, PR TIMESなどでのオンラインリサーチ 
-1. extensive  search ( IR情報,社員のSNS…　） 
+@ul[list-square-bullets list-spaced-bullets]
+1. 基本のWEBサーチ
+1. より詳細なWEBサーチ 
 1. HR や関係者にヒアリング 
-1. 同業他社の同じポジションで仕事をしている人にヒアリング
-1. 1-4をまとめ、自分用の事前準備資料を作成する
+1. 同業他者へのヒアリング
+1. 1-4の事前準備資料作成
 1. 想定課題の設定
 1. Solution提案を用意
 @ulend
