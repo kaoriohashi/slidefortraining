@@ -1,6 +1,12 @@
-## Client Reserch Training
+@snap[west text-center font-arial]
+## Client<br>Reserch<br>Training
+@snapend
+  
+@snap[east text center]
 #### 2019 Dec 
-#### Kaori Ohashi
+Kaori Ohashi
+@snapend
+
 
 ---
 ## 研修の全体像
