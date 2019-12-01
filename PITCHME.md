@@ -38,8 +38,8 @@
 ### アポ前準備の７か条　
 ###### BDアポなど、「初回」のMTGを想定
 
-1.　HP, Wantedly, PR TIMESなどでのオンラインリサーチ	|
-2.　extensive  search ( IR情報,社員のSNS…　） |
+- 1.　HP, Wantedly, PR TIMESなどでのオンラインリサーチ	|
+- 2.　extensive  search ( IR情報,社員のSNS…　） |
 3.　HR や関係者にヒアリング | 
 4.　同業他社の同じポジションで仕事をしている人にヒアリング　|
 5.　1-4をまとめ、自分用の事前準備資料を作成する |
