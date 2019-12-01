@@ -3,6 +3,8 @@ theme : white
 text : black
 font : arial
 
+theme-headline : ["Client Research Training", "orange"]
+
 #ロゴアイコンの設定
 logo : rgflogo.png
 
