@@ -1,6 +1,7 @@
 #テーマの設定
 theme : white
 text : black
+font : arial
 
 #ロゴアイコンの設定
 logo : .png
