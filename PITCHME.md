@@ -99,9 +99,8 @@ _mini goal_
 @snap[west]
 ### STEP6
 ### 想定課題の設定
-
 _mini goal_
-#### なぜRGFの話を聞いているのか、相手のニーズに対して仮説を立てる
+なぜRGFの話を聞いているのか、相手のニーズに対して仮説を立てる
 @snapend
 
 @snap[south-east]
