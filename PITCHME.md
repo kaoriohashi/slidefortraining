@@ -56,44 +56,46 @@ __なぜ__は理解したけど、__何を__すればいいの？
 ### ひとつひとつ詳細に説明しよう！
 
 ---
-
+@snap[west]
 ### STEP1
-- HPやまとめサイト、Wantedlyなどを中心に情報収集をする。
-
-_mini goal_
-- 会社の概要と募集要項の把握
+### HPやまとめサイト、Wantedlyなどを中心に情報収集をする。
+会社の概要と募集要項の把握
+@snapend
 
 ---
+@snap[west]
 ### STEP2
-- IR情報や社員のSNS等、より詳細な情報を集める
+### IR情報や社員のSNS等、より詳細な情報を集める
+お金の流れと人の流れを把握する
+@snapend
 
-_mini goal_
-- お金の流れと人の流れを把握する
 ---
 ### ここまではできている人も多いが、ここからが本番😇
 
 image
 
 ---
-
+@snap[west]
 ### STEP3
-HRや関係者にヒアリングをする
-
-- _mini goal_
-  - 組織図と、募集のバックグラウンドを理解する
+### HRや関係者にヒアリングをする
+組織図と、募集のバックグラウンドを理解する
+@snapend
 
 ---
+@snap[west]
 ### STEP4
-- 同業他社の同じポジションで仕事をしている人にヒアリング
+### 同業他社の同じポジションで仕事をしている人にヒアリング
+客観的な企業イメージを理解する（業界理解にも繋がる）
+@snapend
 
-_mini goal_
-- 客観的な企業イメージを理解する（業界理解にも繋がる）
 ---
+@snap[west]
 ### STEP5
-- 1-4をまとめ、自分用の事前準備資料を作成する
+### 1-4をまとめ、自分用の事前準備資料を作成する
+@snapend
 
 ---
-こんな感じ。
+### こんな感じ。
 
 ---
 @snap[west]
@@ -105,15 +107,24 @@ _mini goal_
 @snap[south-east]
 <img src="https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)" width="200px">
 @snapend
+
 ---
+@snap[west]
 ### STEP7
-- STEP6の内容を元に、当日の提案を用意する
+### STEP6の内容を元に、当日の提案を用意する
 
-__GOAL__
-- 事前のサーチに基づいた提案（アイデアやブラインドレジュメ）でいつまでに誰を決めるか、イメージを固める
+#### __GOAL__
+ 事前のサーチに基づいた提案（アイデアやブラインドレジュメ）でいつまでに誰を決めるか、イメージを固める
+@snapend
+
 ---
-
+@snap[west]
 ### 実際にやってみよう！ 😎
+@snapend
+
+@snap[east]
+<img src="https://1.bp.blogspot.com/-PgPpfoGDxF0/WcB5sfrVQSI/AAAAAAABG1o/xGjjAfsxv_UddA_63hydv1M46uL0b4KHACLcBGAs/s800/kaigi_man_woman.png" width="320px">
+@snapend
 
 ---
 
