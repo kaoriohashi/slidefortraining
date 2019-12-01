@@ -98,7 +98,7 @@ _mini goal_
 ---
 ### STEP6
 - 想定課題の設定
-![積み木のひと](https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)20%
+<img src="https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)" width="50px">
 
 
 _mini goal_
