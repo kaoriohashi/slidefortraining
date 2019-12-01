@@ -1,9 +1,9 @@
-# Client Reserch Training
-### 2019 Dec 
-### Kaori Ohashi
+## Client Reserch Training
+#### 2019 Dec 
+#### Kaori Ohashi
 
 ---
-# 今日話すこと
+## 今日話すこと
 - クライアントMTGの目的ってなに？ |
 - アポ前準備の７か条 |
 
@@ -17,6 +17,6 @@
 - 求人票以上の情報をヒアリングできない | 
 - 業界や職種の理解が不足している気がする | 
 
-そんなYOU達への研修です😊 | 
+そんなYOU達への研修です😊 
 
 ---
