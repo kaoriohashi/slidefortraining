@@ -49,7 +49,7 @@ __なぜ__は理解したけど、__何を__すればいいの？
 
 
 @snap[west text-center]
-### アポ前準備<br>７か条　
+### アポ前準備<br>７STEPS　
 @snapend
 
 @snap[east text-center]
