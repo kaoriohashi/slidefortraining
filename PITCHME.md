@@ -48,15 +48,15 @@ __なぜ__は理解したけど、__何を__すればいいの？
 @snapend
 
 @snap[east text-center]
-@ul[list-spaced-bullets list-fade-fragments]
-1. 基本のWEBサーチ 
-1. より詳細なWEBサーチ
-1. HRや関係者にヒアリング 
-1. 同業他社へのヒアリング
-1. 1-4の事前準備資料作成
-1. 想定課題の設定
-1. Solution提案を用意
-@ulend
+  @ul[list-spaced-bullets list-fade-fragments]
+  1. 基本のWEBサーチ 
+  1. より詳細なWEBサーチ
+  1. HRや関係者にヒアリング 
+  1. 同業他社へのヒアリング
+  1. 1-4の事前準備資料作成
+  1. 想定課題の設定
+  1. Solution提案を用意
+  @ulend
 ＠snapend
 
 ---
