@@ -98,10 +98,11 @@ _mini goal_
 ---
 ### STEP6
 - 想定課題の設定
+![積み木のひと](https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)20%
+
 
 _mini goal_
 - なぜRGFの話を聞いているのか、相手のニーズに対して仮説を立てる
-![積み木のひと](https://1.bp.blogspot.com/-l4Xa9FbvkWE/XXXOfQfo-wI/AAAAAAABUuk/IphjktvChUAJTJnF8OiJLa8p9iX1KG5xQCLcBGAs/s1600/figure_tsumitate.png)
 ---
 ### STEP7
 - STEP6の内容を元に、当日の提案を用意する
