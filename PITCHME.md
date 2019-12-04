@@ -1,6 +1,4 @@
-
-## Client Reserch Training
-  
+### アポ前準備７STEPs  
 #### 2019 Dec 
 Kaori Ohashi
 
